@@ -1,2 +1,2 @@
 # 2018OSDesignXL
-modify an os system to finish our final work
+XX操作系统设计及功能说明文档
